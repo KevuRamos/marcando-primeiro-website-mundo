@@ -1,2 +1,2 @@
 # marcando-primeiro-website-mundo
-Primeiro website do mundo marcado em HTML.
+Primeiro website do mundo, marcado em HTML.
